@@ -1,4 +1,8 @@
 This is my new file
 This is my file from github
+<<<<<<< .merge_file_a09484
 file.txt from the tester branch
 this is file.txt from deveoper branch
+=======
+file.txt change from tester
+>>>>>>> .merge_file_a09812
