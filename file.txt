@@ -1,2 +1,4 @@
 This is my new file
 This is my file from github
+file.txt from the tester branch
+this is file.txt from deveoper branch
